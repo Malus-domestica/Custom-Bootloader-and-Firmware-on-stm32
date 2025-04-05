@@ -1,0 +1,9 @@
+application1/.settings
+application1/Debug
+application2/.settings
+application2/Debug
+bootloader1/.settings
+bootloader1/Debug
+bootloader1/Release
+transmitBinFile/.settings
+transmitBinFile/Debug
